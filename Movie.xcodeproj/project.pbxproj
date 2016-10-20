@@ -17,6 +17,10 @@
 		FE3F2CF71DB5F3010050F62C /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE3F2CF61DB5F3010050F62C /* Movie.swift */; };
 		FE9AEB061DB82B6D0094C935 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9AEB051DB82B6D0094C935 /* DetailViewController.swift */; };
 		FE9AEB081DB856530094C935 /* FavoriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9AEB071DB856530094C935 /* FavoriteViewController.swift */; };
+		FE9AEB2E1DB88B830094C935 /* movie1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FE9AEB2D1DB88B830094C935 /* movie1.jpeg */; };
+		FE9AEB301DB88B8B0094C935 /* movie2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FE9AEB2F1DB88B8B0094C935 /* movie2.jpeg */; };
+		FE9AEB321DB88B900094C935 /* movie3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FE9AEB311DB88B900094C935 /* movie3.jpeg */; };
+		FE9AEB341DB88B950094C935 /* movie4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FE9AEB331DB88B950094C935 /* movie4.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +36,10 @@
 		FE3F2CF61DB5F3010050F62C /* Movie.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		FE9AEB051DB82B6D0094C935 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		FE9AEB071DB856530094C935 /* FavoriteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavoriteViewController.swift; sourceTree = "<group>"; };
+		FE9AEB2D1DB88B830094C935 /* movie1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = movie1.jpeg; sourceTree = "<group>"; };
+		FE9AEB2F1DB88B8B0094C935 /* movie2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = movie2.jpeg; sourceTree = "<group>"; };
+		FE9AEB311DB88B900094C935 /* movie3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = movie3.jpeg; sourceTree = "<group>"; };
+		FE9AEB331DB88B950094C935 /* movie4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = movie4.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +56,7 @@
 		FE3F2CD01DB5E5260050F62C = {
 			isa = PBXGroup;
 			children = (
+				FE9AEB2C1DB88B5F0094C935 /* screenshots */,
 				FE3F2CDB1DB5E5260050F62C /* Movie */,
 				FE3F2CDA1DB5E5260050F62C /* Products */,
 			);
@@ -77,6 +86,17 @@
 				FE3F2CF11DB5ED040050F62C /* MovieModel.xcdatamodeld */,
 			);
 			path = Movie;
+			sourceTree = "<group>";
+		};
+		FE9AEB2C1DB88B5F0094C935 /* screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				FE9AEB2D1DB88B830094C935 /* movie1.jpeg */,
+				FE9AEB2F1DB88B8B0094C935 /* movie2.jpeg */,
+				FE9AEB311DB88B900094C935 /* movie3.jpeg */,
+				FE9AEB331DB88B950094C935 /* movie4.jpeg */,
+			);
+			name = screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,6 +157,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE9AEB321DB88B900094C935 /* movie3.jpeg in Resources */,
+				FE9AEB2E1DB88B830094C935 /* movie1.jpeg in Resources */,
+				FE9AEB301DB88B8B0094C935 /* movie2.jpeg in Resources */,
+				FE9AEB341DB88B950094C935 /* movie4.jpeg in Resources */,
 				FE3F2CE91DB5E5260050F62C /* LaunchScreen.storyboard in Resources */,
 				FE3F2CE61DB5E5260050F62C /* Assets.xcassets in Resources */,
 				FE3F2CE41DB5E5260050F62C /* Main.storyboard in Resources */,

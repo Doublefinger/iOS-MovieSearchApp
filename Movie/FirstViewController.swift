@@ -119,10 +119,7 @@ class FirstViewController: UIViewController, UISearchBarDelegate, UICollectionVi
             
             self.presentViewController(alert, animated: true, completion: nil)
         } else {
-            
             var moviesWithPoster = fetchHelper(json["Search"])
-            print(moviesWithPoster.count)
-            
             dispatch_async(dispatch_get_global_queue(QOS_CLASS_USER_INITIATED, 0), {
                 for i in 0...moviesWithPoster.count-1 {
                     let imageUrl = NSURL(string: moviesWithPoster[i].posterPath)
