@@ -21,6 +21,7 @@
 		FE9AEB301DB88B8B0094C935 /* movie2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FE9AEB2F1DB88B8B0094C935 /* movie2.jpeg */; };
 		FE9AEB321DB88B900094C935 /* movie3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FE9AEB311DB88B900094C935 /* movie3.jpeg */; };
 		FE9AEB341DB88B950094C935 /* movie4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FE9AEB331DB88B950094C935 /* movie4.jpeg */; };
+		FE9AEB361DB88E6F0094C935 /* movie5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FE9AEB351DB88E6F0094C935 /* movie5.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		FE9AEB2F1DB88B8B0094C935 /* movie2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = movie2.jpeg; sourceTree = "<group>"; };
 		FE9AEB311DB88B900094C935 /* movie3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = movie3.jpeg; sourceTree = "<group>"; };
 		FE9AEB331DB88B950094C935 /* movie4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = movie4.jpeg; sourceTree = "<group>"; };
+		FE9AEB351DB88E6F0094C935 /* movie5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = movie5.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				FE9AEB2F1DB88B8B0094C935 /* movie2.jpeg */,
 				FE9AEB311DB88B900094C935 /* movie3.jpeg */,
 				FE9AEB331DB88B950094C935 /* movie4.jpeg */,
+				FE9AEB351DB88E6F0094C935 /* movie5.jpeg */,
 			);
 			name = screenshots;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				FE9AEB2E1DB88B830094C935 /* movie1.jpeg in Resources */,
 				FE9AEB301DB88B8B0094C935 /* movie2.jpeg in Resources */,
 				FE9AEB341DB88B950094C935 /* movie4.jpeg in Resources */,
+				FE9AEB361DB88E6F0094C935 /* movie5.jpeg in Resources */,
 				FE3F2CE91DB5E5260050F62C /* LaunchScreen.storyboard in Resources */,
 				FE3F2CE61DB5E5260050F62C /* Assets.xcassets in Resources */,
 				FE3F2CE41DB5E5260050F62C /* Main.storyboard in Resources */,
